@@ -1,0 +1,27 @@
+HTML file
+
+-The image of boo didn't have < > around it.
+
+-Boo The Dog Fan Page! didn't have header tags.
+
+-About Boo missing paragraph tags.
+
+-Link for Boo the dog's wikipedia page was missing the actual hyperlink.
+
+-Button ids in the incorrect place and wrong order.  Also the ids assigned to each button can cause confusion.
+
+-Grow and shrink buttons in the wrong placement on the screen.
+
+-List of Boo's favorite things had each item missing the list item tags.
+
+-called on incorrect .js file name.
+
+-removed instructions
+	
+JS file
+
+-missing quotes around "pink" for the button change, also all of the buttons not in logical order.
+	
+-Grow and Shrink button functions missing quotes around "click".
+
+-Random facts array missing quotes around each fact.

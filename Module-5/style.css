@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.big {
+    font-size: larger;
+}
+
+.small {
+    font-size: small;
+}
+
+.centered{
+    text-align: center;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.cursive{
+    font-family: cursive;
+}
+
+.multiple{
+    font-size: larger;
+    color: orange;
+    font-weight: bold;
+}
+
+.styledFont{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Image{
+    border: orange;
+    border-style: solid;
+    border-width: 20px 20px 20px 20px;
+}
